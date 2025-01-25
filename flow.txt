@@ -1,0 +1,6 @@
+1. screen - 600x800, title, bgcolor,  DONE
+2. main turtle - move from down to up, up-down-left-right DONE
+3. cars (turtles) - randome spawn, randm colors
+4. detect collision
+5. scoreboard - levels
+6. upgrade - new levels- faster cars
